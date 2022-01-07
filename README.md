@@ -7,4 +7,4 @@ To Run the App steps:
 
 Clone the Repository
 
-Open Terminal and rum Command "npm start"
+Open Terminal and run Command "npm start"
